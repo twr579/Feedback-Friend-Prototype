@@ -6,13 +6,17 @@ When the user first starts the app, they see the survey creation screen, where t
 
 # What It Looks Like
 Options for creating a multiple choice question
+
 ![Creating a MCQ](images/createMCQ.png)
 
 Survey creation page with FRQ and MCQ
+
 ![Survey Creation](images/createSurvey.png)
 
 Taking the survey
+
 ![Taking a survey](images/takeSurvey.png)
 
 Survey results
+
 ![Survey results](images/surveyResults.png)
