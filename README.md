@@ -15,7 +15,7 @@ Survey creation page with FRQ and MCQ
 
 Taking the survey
 
-![Taking a survey](images/takeSurvey.png)
+![Taking the survey](images/takeSurvey.png)
 
 Survey results
 
